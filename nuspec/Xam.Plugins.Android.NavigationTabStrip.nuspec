@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>Xam.Plugins.Android.NavigationTabStrip</id>
+        <version>1.0.4</version>
+        <title>NavigationTabStrip for Xamarin.Android</title>
+        <authors>Martijn van Dijk</authors>
+        <owners>Martijn van Dijk</owners>
+        <licenseUrl>https://github.com/martijn00/NavigationTabStripXamarin/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/martijn00/NavigationTabStripXamarin</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Navigation tab strip with smooth interaction for Xamarin Android</description>
+        <summary>Navigation tab strip with smooth interaction</summary>
+        <tags>xamarin, monodroid, C#, xamarin.android, android, Navigation, tab, strip, NavigationTabStrip</tags>
+        <dependencies>
+            <group targetFramework="MonoAndroid0.0">
+                <dependency id="Xamarin.Android.Support.v4" version="23.4.0.1" />
+            </group>
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\NavigationTabStrip\bin\Release\NavigationTabStrip.dll" target="lib\MonoAndroid\NavigationTabStrip.dll" />
+    </files>
+</package>
