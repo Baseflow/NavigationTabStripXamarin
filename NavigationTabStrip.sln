@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationTabStrip", "NavigationTabStrip\NavigationTabStrip.csproj", "{B54B8B7F-77A1-4511-AEAB-6E02526E7256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54B8B7F-77A1-4511-AEAB-6E02526E7256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54B8B7F-77A1-4511-AEAB-6E02526E7256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54B8B7F-77A1-4511-AEAB-6E02526E7256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54B8B7F-77A1-4511-AEAB-6E02526E7256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
