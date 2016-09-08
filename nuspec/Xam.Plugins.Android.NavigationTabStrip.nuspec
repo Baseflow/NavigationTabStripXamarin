@@ -8,6 +8,7 @@
         <owners>Martijn van Dijk</owners>
         <licenseUrl>https://github.com/martijn00/NavigationTabStripXamarin/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/martijn00/NavigationTabStripXamarin</projectUrl>
+        <iconUrl>https://raw.githubusercontent.com/martijn00/NavigationTabStripXamarin/master/icon_navigationtabstrip.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Navigation tab strip with smooth interaction for Xamarin Android</description>
         <summary>Navigation tab strip with smooth interaction</summary>
